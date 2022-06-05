@@ -1,0 +1,807 @@
+{
+  "bucket": [
+    {
+      "startTimeMillis": "1649348039497",
+      "endTimeMillis": "1650557611729",
+      "dataset": [
+        {
+          "dataSourceId": "derived:com.google.sleep.segment:com.google.android.gms:merged",
+          "point": [
+            {
+              "startTimeNanos": "1649445900000000000",
+              "endTimeNanos": "1649446440000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649446440000000000",
+              "endTimeNanos": "1649448540000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 5,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649448540000000000",
+              "endTimeNanos": "1649455500000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649455500000000000",
+              "endTimeNanos": "1649456340000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 5,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649456340000000000",
+              "endTimeNanos": "1649456700000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649456700000000000",
+              "endTimeNanos": "1649459340000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 1,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649459340000000000",
+              "endTimeNanos": "1649467140000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649467140000000000",
+              "endTimeNanos": "1649467740000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 5,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649467740000000000",
+              "endTimeNanos": "1649471520000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649471520000000000",
+              "endTimeNanos": "1649473380000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 5,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649473380000000000",
+              "endTimeNanos": "1649477700000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649477700000000000",
+              "endTimeNanos": "1649479080000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 5,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649479080000000000",
+              "endTimeNanos": "1649479560000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649479560000000000",
+              "endTimeNanos": "1649480220000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 5,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649480220000000000",
+              "endTimeNanos": "1649484660000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649484660000000000",
+              "endTimeNanos": "1649485440000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 5,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649485440000000000",
+              "endTimeNanos": "1649487780000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649545380000000000",
+              "endTimeNanos": "1649555280000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649555280000000000",
+              "endTimeNanos": "1649556360000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 5,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649556360000000000",
+              "endTimeNanos": "1649558040000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649558040000000000",
+              "endTimeNanos": "1649559060000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 5,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649559060000000000",
+              "endTimeNanos": "1649568000000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649568000000000000",
+              "endTimeNanos": "1649568120000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 1,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649568120000000000",
+              "endTimeNanos": "1649574300000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649574300000000000",
+              "endTimeNanos": "1649574600000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649719860000000000",
+              "endTimeNanos": "1649725320000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649725320000000000",
+              "endTimeNanos": "1649728020000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 5,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649728020000000000",
+              "endTimeNanos": "1649731260000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649731260000000000",
+              "endTimeNanos": "1649732220000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 5,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649732220000000000",
+              "endTimeNanos": "1649735820000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649804280000000000",
+              "endTimeNanos": "1649810520000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649810520000000000",
+              "endTimeNanos": "1649812320000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 5,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649812320000000000",
+              "endTimeNanos": "1649814480000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649814480000000000",
+              "endTimeNanos": "1649818680000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 5,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649818680000000000",
+              "endTimeNanos": "1649830320000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649830320000000000",
+              "endTimeNanos": "1649832600000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 1,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649832600000000000",
+              "endTimeNanos": "1649834340000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649892780000000000",
+              "endTimeNanos": "1649896740000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649896740000000000",
+              "endTimeNanos": "1649900340000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 5,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649900340000000000",
+              "endTimeNanos": "1649907420000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649977800000000000",
+              "endTimeNanos": "1649986560000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649986560000000000",
+              "endTimeNanos": "1649987040000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 5,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649987040000000000",
+              "endTimeNanos": "1649989500000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649989500000000000",
+              "endTimeNanos": "1649992440000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 5,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1649992440000000000",
+              "endTimeNanos": "1650000960000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1650000960000000000",
+              "endTimeNanos": "1650002280000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 5,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1650002280000000000",
+              "endTimeNanos": "1650002640000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1650002640000000000",
+              "endTimeNanos": "1650003480000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 5,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1650003480000000000",
+              "endTimeNanos": "1650005340000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1650057660000000000",
+              "endTimeNanos": "1650058560000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1650058560000000000",
+              "endTimeNanos": "1650059640000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 5,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1650059640000000000",
+              "endTimeNanos": "1650060300000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1650060300000000000",
+              "endTimeNanos": "1650062880000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 5,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1650062880000000000",
+              "endTimeNanos": "1650074220000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1650074220000000000",
+              "endTimeNanos": "1650075240000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 5,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1650075240000000000",
+              "endTimeNanos": "1650075660000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1650075660000000000",
+              "endTimeNanos": "1650076260000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 5,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1650076260000000000",
+              "endTimeNanos": "1650078240000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1650078240000000000",
+              "endTimeNanos": "1650079800000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 5,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1650079800000000000",
+              "endTimeNanos": "1650096780000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1650096780000000000",
+              "endTimeNanos": "1650098160000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 1,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1650098160000000000",
+              "endTimeNanos": "1650098760000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1650098760000000000",
+              "endTimeNanos": "1650099540000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 5,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1650099540000000000",
+              "endTimeNanos": "1650100140000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1650100140000000000",
+              "endTimeNanos": "1650101160000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 5,
+                  "mapVal": []
+                }
+              ]
+            },
+            {
+              "startTimeNanos": "1650101160000000000",
+              "endTimeNanos": "1650103620000000000",
+              "dataTypeName": "com.google.sleep.segment",
+              "originDataSourceId": "raw:com.google.sleep.segment:com.xiaomi.hm.health:GoogleFitSyncHelper- sleep segments",
+              "value": [
+                {
+                  "intVal": 4,
+                  "mapVal": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
